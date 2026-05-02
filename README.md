@@ -15,7 +15,7 @@ The framework integrates:
 
 Below is the high-level architecture of the proposed framework:
 
-![CSLM Architecture](architecture.png)
+![CSLM Architecture](architecture.jpg)
 
 The framework combines learning-based decision making with uncertainty-aware energy-efficient routing and constraint-aware evaluation.
 
@@ -23,6 +23,7 @@ The framework combines learning-based decision making with uncertainty-aware ene
 
 ## 📂 Repository Structure
 
+```
 SLM_CR/
 │
 ├── data/
@@ -77,6 +78,7 @@ SLM_CR/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 ---
 
