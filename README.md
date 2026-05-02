@@ -1,4 +1,4 @@
-# 📡 Uncertainty-Guided SLM with Selective RL for Cognitive Radio Resource Allocation
+# 📡 CSLM: Uncertainty-Guided SLM with Selective RL for Energy Efficient CR Resource Allocation
 
 This repository implements a Transformer-based SLM with uncertainty-guided decision routing and selective reinforcement learning (SAC) for efficient and constraint-aware cognitive radio resource allocation.
 
